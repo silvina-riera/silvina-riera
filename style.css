@@ -1,0 +1,48 @@
+
+.carrusel__encuadre {
+    height: 85vh;
+}
+
+.carrusel__imagenes {
+    height: 100%;
+    filter: brightness(0.5);
+    object-fit: cover;
+}
+
+.carrusel__texto {
+    text-align: end;
+    bottom: 15%;
+}
+
+@media screen and (min-width:1200px) {
+    .carrusel__texto {
+    left: 39.37rem;
+    }
+}
+
+.textoMuyChico {
+    font-size: x-small;
+}
+
+.oradores__encuadre {
+    width: 99vw;
+    justify-content: center;
+}
+
+.footer__fondo {
+    background: linear-gradient(103deg, #1C3844 0%, #1D5272 100%);
+}
+
+footer ul li {
+    display: flex;
+    align-items: center;
+}
+
+footer a {
+    max-width: 7.62rem;
+}
+
+footer a:hover {
+    color: lightblue !important;
+}
+
