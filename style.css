@@ -20,13 +20,12 @@
     }
 }
 
-.textoMuyChico {
-    font-size: x-small;
+.textoChico {
+    font-size: small;
 }
 
-.oradores__encuadre {
-    width: 99vw;
-    justify-content: center;
+.textoMuyChico {
+    font-size: x-small;
 }
 
 .footer__fondo {
@@ -46,3 +45,21 @@ footer a:hover {
     color: lightblue !important;
 }
 
+.estudiante__Select, .estudiante:hover  {
+    background-color: blue;
+    color: white;
+}
+
+.trainee__Select, .trainee:hover {
+    background-color: green;
+    color: white;
+}
+
+.junior__Select, .junior:hover {
+    background-color: orange;
+    color: white;
+}
+
+.general__Select, .general:hover {
+    background-color: lightgrey;
+}
