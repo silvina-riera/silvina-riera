@@ -9,16 +9,16 @@ const headerTemplate = `<nav class="navbar navbar-expand-lg navbar-dark bg-dark"
   <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">La conferencia</a>
+        <a class="nav-link" href="index.html">La conferencia</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#oradores">Los oradores</a>
+        <a class="nav-link" href="index.html#oradores">Los oradores</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#bsAsOctubre">El lugar y la fecha</a>
+        <a class="nav-link" href="index.html#bsAsOctubre">El lugar y la fecha</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#quieroSerOrador">Conviértete en orador</a>
+        <a class="nav-link" href="index.html#quieroSerOrador">Conviértete en orador</a>
       </li>
       <li class="nav-item">
         <a class="nav-link active" aria-current="page" href="#">Comprar tickets</a>
